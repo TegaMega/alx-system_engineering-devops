@@ -1,1 +1,1 @@
-shell redirections basics
+input and output shell redirections
